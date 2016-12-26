@@ -12,9 +12,9 @@
 
 建议使用[wept](https://github.com/chemzqm/wept)来调试运行微信小程序
 
-`cd ~/Desktop/WechatApp`
-
 `wept`
+
+访问`http://localhost:3000`
 
 ##Thanks
 
