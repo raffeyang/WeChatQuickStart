@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-git clone https://github.com/Jax0rz/wechatappquickstarter ~/Desktop/WechatApp
-cd ~/Desktop/WechatApp
+git clone https://github.com/Jax0rz/wechatappquickstarter ~/Desktop/WechatApp && cd ~/Desktop/WechatApp
